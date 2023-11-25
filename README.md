@@ -1,1 +1,1 @@
-Prredicting Titanic survival using K-Nearest Neighbours
+Predicting Titanic survival using K-Nearest Neighbours (Kaggle)
